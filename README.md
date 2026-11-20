@@ -1,5 +1,6 @@
 # UI-UX-Experiment2
-
+# NAME: KARTHIKRAJ C
+# REG NO.: 212224230117
 ## Aim:
 To design responsive mobile and web layouts in Figma by applying Gestalt principles, incorporating appropriate UI elements and design patterns, implementing interactive behaviours and usability principles, and creating a custom brand logo using Canva.
 
